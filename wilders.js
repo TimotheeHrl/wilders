@@ -1,2 +1,2 @@
-const SayFourNames = require('./name.js');
-SayFourNames();
+const saynames = require('./name.js');
+saynames();
