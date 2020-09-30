@@ -1,0 +1,19 @@
+{
+  "name": "chalk",
+  "version": "1.1.2",
+  "description": "saynames",
+  "main": "wilders.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimotheeHrl/wilders.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimotheeHrl/wilders/issues"
+  },
+  "homepage": "https://github.com/TimotheeHrl/wilders#readme"
+}
